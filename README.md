@@ -1,1 +1,1 @@
-# Support-Vector-Machine
+# Diabetes-Prediction-ML using Classifiers
